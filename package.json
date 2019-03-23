@@ -1,0 +1,8 @@
+{
+    "name": "idirium-dashboard",
+    "version": "0.0.1",
+    "description": "my first iridium plugin",
+    "dependencies": {
+        "express": "^4.16.4"
+    }
+}

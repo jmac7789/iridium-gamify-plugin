@@ -1,0 +1,9 @@
+{
+
+    "id": "1f7741e7-f8b2-41e4-bfa7-959fc526850a",
+    "name": "Cool Dashboard",
+    "description": "A cool dashboard",
+    "author": "Me",
+    "image": "icon.png",
+    "main": "index.js"
+}
